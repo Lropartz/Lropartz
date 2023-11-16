@@ -1,1 +1,23 @@
+<h1>Le telechargement et le streaming </h1>
+<!doctype html>
+<htlm>
+    <head>
+        <h2><ul><li>Le Telechargement</li></ul></h2>
+    </head>
+    <body> 
+    <p> le téléchargement est l’opération de transmission d’informations (programmes, données, images, sons, vidéos)
+    Le processus de téléchargement dissimule la localisation des fichiers ainsi que les voies de communication employées au     cours de cette opération.<br>
+    Les divers canaux de transmission existants exploitent les propriétés des ondes électromagnétiques dans des milieux 
+    variés, interconnectés le cas échéant avec un périphérique émetteur/récepteur approprié tel qu'un modem, un     autocommutateur, un dongle, une clé USB, ou une antenne :
+<ul><li>Transmission à travers l'air : Cette méthode implique l'émission d'ondes à différentes bandes de fréquences, telles que les ondes radio (Bluetooth, Wifi, radiotéléphonie) ou l'infrarouge.<br></li>
+<li>Transmission via le cuivre : Le signal électrique est acheminé à travers des câbles en cuivre sur des réseaux tels que Ethernet, commuté, ADSL ou RNIS.</li><br>
+<li>Transmission à travers le plastique ou le verre (fibre optique) : La lumière est utilisée comme moyen de transmission dans le Backbone, en faisant appel à des câbles en plastique ou en verre.</li></ul><br>
+<br>
+Le processus de téléchargement peut englober une variété de fichiers tels que des logiciels, des morceaux musicaux, des documents et des données, avec des caractéristiques diverses.<br>Il peut être gratuit, conditionnel, ou payant, et sa légalité dépend du contenu téléchargé ainsi que des pays impliqués dans l'échange d'information.<br>Notamment, l'exportation de moyens de chiffrement depuis les États-Unis est réglementée.<br>
 
+En 2005, les téléchargements via Internet en France ont été quantifiés comme suit :
+
+<ul><li>1 milliard de fichiers musicaux</li>
+<li>120 millions de films</li>
+<li>160 millions de logiciels</li>
+<li>30 millions de jeux vidéo (logiciels)</li></ul>
